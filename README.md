@@ -1,16 +1,36 @@
-## Hi there 👋
+# Oi, eu sou Maria Luíza 👋
 
-<!--
-**Maria72714/Maria72714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnica em formação em Informática para Internet no IFRN  
+💻 Desenvolvendo aplicações web  
+🌱 Aprendendo Flask, JavaScript e React  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 📚 Projetos em destaque
+
+- Matec
+- Projeto Cobrinha
+- Aplicações Web com Flask
+- Portfólio Médico
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/maria-luiza-1963a140b
+
+- Email: mspe725@gmail.com
